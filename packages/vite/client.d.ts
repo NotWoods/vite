@@ -49,6 +49,7 @@ interface ImportMetaEnv {
   MODE: string
   DEV: boolean
   PROD: boolean
+  SSR: boolean
 }
 
 // CSS modules
